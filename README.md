@@ -1,3 +1,3 @@
 # SriMex
-https://ariramosh.github.io/SriMex/
 Travel website
+https://ariramosh.github.io/SriMex/
